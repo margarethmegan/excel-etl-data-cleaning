@@ -1,14 +1,14 @@
-# 📊 Excel ETL Project – Real-World Data Cleaning in Accounting
+# Excel ETL Project – Real-World Data Cleaning in Accounting
 
 A multi-part case study developed by **Ernst & Young**, this project simulates a real-world ETL (Extract, Transform, Load) workflow using Excel. It focuses on identifying, cleaning, parsing, and transforming raw accounting data into a structured and analyzable format—building essential skills for data-driven business decision-making.
 
-## 🏫 Context
+## Context
 
-- 📅 **Date**: January 2025  
-- 🏫 **Institution**: Pepperdine University  
-- 👩🏻‍💻 **Course**: Accounting Information Systems
+- **Date**: January 2025  
+- **Institution**: Pepperdine University  
+- **Course**: Accounting Information Systems
 
-## 🔍 Project Overview
+## Project Overview
 
 This hands-on project spans **five Excel workbooks**, each presenting a new data challenge such as:
 
@@ -18,12 +18,12 @@ This hands-on project spans **five Excel workbooks**, each presenting a new data
 - Table lookups and joins
 - Application of advanced Excel formulas for transformation
 
-## 💼 Key Case Example
+## Key Case Example
 
 ### Case 2: Data Parsing and Reconstruction  
 Transformed a composite field (`EmployeeCode`) into multiple structured fields using functions like `TEXTSPLIT()`, `MID()`, `LEFT()`, and `FIND()`, showcasing Excel’s ability to handle structured parsing logic without code.
 
-## 🧰 Tools & Skills Used
+## Tools & Skills Used
 
 - **Microsoft Excel**
   - Advanced formulas: `IFERROR()`, `VLOOKUP()`, `TEXTSPLIT()`, `LEFT()`, `MID()`, `TRIM()`, etc.
